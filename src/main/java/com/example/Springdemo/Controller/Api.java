@@ -18,10 +18,7 @@ public String getAddress() {
 	return "Bangalore";
 }
 
-@GetMapping("/Friend")	
-public String getFriend() {
-	return "KarthiK";
-}
+
 
 
 	
