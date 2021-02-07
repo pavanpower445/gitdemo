@@ -10,7 +10,7 @@ public class Api {
 
 @GetMapping("/name")	
 public String getName() {
-	return "My name is Pavan";
+	return "I am PavanKumar";
 }
 
 @GetMapping("/Address")	
